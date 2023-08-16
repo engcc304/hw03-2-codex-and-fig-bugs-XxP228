@@ -8,7 +8,7 @@ int main()
     printf("%d ", _1);
    
     if (_1 != 0)  {
-        printf("okay ");
+        printf("ok ");
     } else {
         while (i <= 5)
         {
